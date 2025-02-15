@@ -570,3 +570,9 @@ nav h3 {
     padding-bottom: 2vw;
     width: 100%;
 }
+#footerlower img{
+    margin-top: 5vw;
+    border-bottom: 1px solid #504A45;
+    padding-bottom: 2vw;
+    width: 100%;
+}
