@@ -27,6 +27,7 @@ function swiperAnimation(){
 }
 swiperAnimation()
 page4Animation()
+
 var desc = document.querySelector("#desc")
 var Design = document.querySelector("#Design")
 var design = document.querySelector("#design")
